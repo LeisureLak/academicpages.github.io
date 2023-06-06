@@ -11,31 +11,31 @@
 */
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
-@import "/_sass/_variables";
-@import "/_sass/_mixins";
+@import "_variables";
+@import "_mixins";
 @import "vendor/susy/susy";
 
-@import "/_sass/_reset";
-@import "/_sass/_base";
+@import "_reset";
+@import "_base";
 
-@import "/_sass/_utilities";
-@import "/_sass/_animations";
-@import "/_sass/_tables";
-@import "/_sass/_buttons";
-@import "/_sass/_notices";
-@import "/_sass/_masthead";
-@import "/_sass/_navigation";
-@import "/_sass/_footer";
-@import "/_sass/_syntax";
+@import "_utilities";
+@import "_animations";
+@import "_tables";
+@import "_buttons";
+@import "_notices";
+@import "_masthead";
+@import "_navigation";
+@import "_footer";
+@import "_syntax";
 
-@import "/_sass/_forms";
+@import "_forms";
 
-@import "/_sass/_page";
-@import "/_sass/_archive";
-@import "/_sass/_sidebar";
+@import "_page";
+@import "_archive";
+@import "_sidebar";
 
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
-@import "/_sass/_print";
+@import "_print";
